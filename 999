@@ -21,7 +21,7 @@
 	}
 	strong {
 		color: #333;
-		aquamarine-color: #FAFFA6;
+		background-color: #FAFFA6;
 		padding: 0.1em;
 	}
 	#footer {
